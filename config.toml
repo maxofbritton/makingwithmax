@@ -1,4 +1,4 @@
-baseURL = "makingwithmax/"
+baseURL = "//maxofbritton.com/makingwithmax/"
 languageCode = "en-us"
 title = "Making with Max"
 theme = "cactus"
