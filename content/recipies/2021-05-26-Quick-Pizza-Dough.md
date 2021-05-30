@@ -1,19 +1,15 @@
 ---
 title: Quick Pizza Dough
-date: 2021-05-26 12:00:00
+date: 2021-05-26 09:00:00
 tags:
     - Pizza
-category: Food
+category: Pizza
 keywords:
     - Pizza
     - Dough
 ---
 
-# Focaccia
-
-| Prep time     | Cook Time     | Additional Time   | Total Time    |
-|---------------|---------------|-------------------|---------------|
-| 20 minutes    | 20 minutes    | 1 hour 20 minutes | 2 hours       |
+# Quick Pizza Dough
 
 ## Ingredients
 
