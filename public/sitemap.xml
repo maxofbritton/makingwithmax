@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//maxofbritton.com/makingwithmax/recipies/2021-05-30-00-pizza-dough/</loc>
-    <lastmod>2021-05-30T09:00:00+00:00</lastmod>
+    <loc>//maxofbritton.com/makingwithmax/tags/chicken/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/tags/chinese/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/chinese/2021-06-10-general-tso-chicken/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/japanese/2021-06-10-ginger-garlic-carrot-sauce-cabbage/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/tags/japanese/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//maxofbritton.com/makingwithmax/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/chinese/2021-06-10-orange-chicken/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/tags/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/japanese/2021-06-10-tonkatsu/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/japanese/2021-06-10-tonkatsu-sauce/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/pizza/2021-05-30-00-pizza-dough/</loc>
     <lastmod>2021-05-30T09:00:00+00:00</lastmod>
   </url><url>
     <loc>//maxofbritton.com/makingwithmax/tags/pizza/</loc>
-    <lastmod>2021-05-30T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//maxofbritton.com/makingwithmax/recipies/</loc>
-    <lastmod>2021-05-30T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//maxofbritton.com/makingwithmax/tags/</loc>
     <lastmod>2021-05-30T09:00:00+00:00</lastmod>
   </url><url>
     <loc>//maxofbritton.com/makingwithmax/tags/bourbon/</loc>
@@ -29,13 +53,13 @@
     <loc>//maxofbritton.com/makingwithmax/cocktails/2021-05-26-old-fashioned/</loc>
     <lastmod>2021-05-27T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//maxofbritton.com/makingwithmax/recipies/2021-05-26-pizza-sauce/</loc>
+    <loc>//maxofbritton.com/makingwithmax/recipies/pizza/2021-05-26-pizza-sauce/</loc>
     <lastmod>2021-05-26T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//maxofbritton.com/makingwithmax/recipies/2021-05-26-quick-pizza-dough/</loc>
+    <loc>//maxofbritton.com/makingwithmax/recipies/pizza/2021-05-26-quick-pizza-dough/</loc>
     <lastmod>2021-05-26T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//maxofbritton.com/makingwithmax/recipies/2021-05-25-focaccia/</loc>
+    <loc>//maxofbritton.com/makingwithmax/recipies/baking/2021-05-25-focaccia/</loc>
     <lastmod>2021-05-25T18:00:00+00:00</lastmod>
   </url><url>
     <loc>//maxofbritton.com/makingwithmax/tags/baking/</loc>
@@ -47,8 +71,10 @@
     <loc>//maxofbritton.com/makingwithmax/tags/bagels/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//maxofbritton.com/makingwithmax/recipies/2021-05-25-bagels/</loc>
+    <loc>//maxofbritton.com/makingwithmax/recipies/baking/2021-05-25-bagels/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//maxofbritton.com/makingwithmax/recipies/miscellaneous/2021-06-11-hash-browns/</loc>
   </url><url>
     <loc>//maxofbritton.com/makingwithmax/categories/</loc>
   </url>
