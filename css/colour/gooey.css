@@ -1,0 +1,29 @@
+/* gruvbox dark mode
+ * https://github.com/morhetz/gruvbox
+ */
+:root {
+    --dark-black: rgb(13, 16, 27);
+    --black: #1f222d;
+    --bright-black: #858893;
+    
+    --white: #ffffff;
+    --bright-white: #8be9fd;
+    
+    --red: #bb4f6c;
+    --green: #72ccae;
+    --violet: #8d84c6;
+    --blue: #6488c4;
+    --magenta: #bb4f6c;
+    --cyan: #58b6ca;
+    --orange: #c65e3d;
+    --gray: #858893;
+    
+    --bright-red:  #ee829f;
+    --bright-green: #a5ffe1;
+    --bright-violet: #c0b7f9;
+    --bright-blue: #97bbf7;
+    --bright-magenta: #ee829f;
+    --bright-cyan: #8be9fd;
+    --bright-orange: #f99170;
+    --bright-gray: #a89984;
+}
