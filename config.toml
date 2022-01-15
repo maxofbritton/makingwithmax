@@ -1,47 +1,43 @@
-baseURL = "//maxofbritton.com/makingwithmax/"
-languageCode = "en-us"
-title = "Making with Max"
-theme = "cactus"
+baseURL = 'https://maxofbritton.com/makingwithmax'
+languageCode = 'en-us'
+title = 'Making with Max'
+author = "Maximilian Britton"
+copyright = "© 2022 Maximilian Britton"
 
-[markup]
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
-  
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Recipies"
-url = "/recipies"
-weight = 2
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+theme = "risotto"
 
 
 [params]
 
-  colortheme = "dark" # dark, light, white, or classic
+    [params.theme]
+    palette = "gooey"
+    mode = "dark-mode"
 
-  description = """
-    This is a website filled with the things I like to make - mostly food."""
+    # Sidebar: about/bio
+    [params.about]
+    title = "Making with Max"
+    description = "I sometimes make things."
 
-  mainSection = "recipies"
+    # Sidebar: social links
+    # Available icon sets:
+    # * FontAwesome 5 <https://fontawesome.com/> ('fas fa-' or 'fab-fa' for brands)
+    # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
-  tagsOverview = false
-  showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/maxofbritton" # title link for projects list
+[menu]
 
-  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "2006-01-02" # default
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts/"
+    weight = 9
 
-  # Post page settings
-  show_updated = false # default
-  showReadTime = false # default
+  [[menu.main]]
+    identifier = "maxofbritton"
+    name = "maxofbritton"
+    url = "https://maxofbritton.com/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

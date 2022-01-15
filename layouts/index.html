@@ -1,0 +1,21 @@
+{{ define "main" }}
+    {{ .Content }}
+    <h1>Featured Posts</h1>
+    {{ range first 3 (where (where .Site.RegularPages "Type" "in" site.Params.mainSections) ".Params.featured" "=" true) }}
+        <article class="post">
+            <header class="post__header">
+                <h1><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+                <p class="post__meta">
+                    {{ .Params.author }},
+                    <span class="date">{{ .Date.Format "2 January 2006" }}</span>
+                </p>
+            </header>
+
+            {{ .Params.header_image }}
+
+            <section class="post__summary">
+                {{ .Summary }}
+            </section>
+        </article>
+    {{ end }}
+{{ end }}
